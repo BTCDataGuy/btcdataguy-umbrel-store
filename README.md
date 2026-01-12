@@ -26,10 +26,10 @@ Node Miner enables Bitcoin CPU mining directly on your Umbrel node using cpumine
 
 ## Screenshots
 
-![Dashboard](node-miner/gallery/1.jpg)
+![Dashboard](btcdataguy-community-store-node-miner/gallery/1.jpg)
 *Mining dashboard with real-time statistics and controls*
 
-![Pool Settings](node-miner/gallery/2.jpg)
+![Pool Settings](btcdataguy-community-store-node-miner/gallery/2.jpg)
 *Pool configuration interface*
 
 ## Features

@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: btcdataguy-apps-node-miner
+id: "node-miner"
 category: bitcoin
 name: Node Miner
 version: "1.0.2"
@@ -47,10 +47,10 @@ releaseNotes: >-
   - Real-time monitoring
   - Simple web interface
 developer: BTCDataGuy
-website: https://github.com/BTCDataGuy/node-miner
+website: https://github.com/BTCDataGuy/btcdataguy-umbrel-store
 dependencies: []
-repo: https://github.com/BTCDataGuy/node-miner
-support: https://github.com/BTCDataGuy/node-miner/issues
+repo: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/tree/main/node-miner
+support: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/tree/main/node-miner/issues
 port: 5000
 icon: https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/icon.png
 gallery:

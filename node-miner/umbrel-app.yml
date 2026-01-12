@@ -5,13 +5,13 @@ name: Node Miner
 version: "1.0.2"
 tagline: Bitcoin CPU mining on your Umbrel node
 description: >-
-  Bitcoin CPU mining on your Umbrel node - for education and fun, not profit.
+  Bitcoin CPU mining on your Umbrel node
   
   
   Node Miner enables Bitcoin CPU mining directly on your Umbrel node using cpuminer-multi. Perfect for node operators who want to experiment with mining without dedicated hardware.
   
   
-  ⚠️ IMPORTANT: This is for education and fun, not profit. CPU mining Bitcoin is unprofitable - you'll spend more on electricity than you'll earn.
+  This is for education and fun, not profit. CPU mining Bitcoin is unprofitable - you'll spend more on electricity than you'll earn.
   
   
   Features:
@@ -37,7 +37,7 @@ description: >-
   
   - Pool URL formats: stratum+tcp://pool.example.com:3333 or pool.example.com:3333
   
-  - For internal pools on same Umbrel: use 172.17.0.1 instead of localhost
+  - For internal pools on same Umbrel: use 172.17.0.1:PORT instead of IP shown in pool UI
   
   - CPU Usage: 10-20% safe, 30-40% monitor closely, 50%+ high risk
 releaseNotes: >-

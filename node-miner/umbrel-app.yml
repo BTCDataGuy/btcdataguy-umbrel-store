@@ -52,11 +52,11 @@ dependencies: []
 repo: https://github.com/BTCDataGuy/btcdataguy-umbrel-store
 support: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/issues
 port: 5000
-icon: https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/btcdataguy-umbrel-store/node-miner/icon.png
+icon: https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/icon.png
 gallery:
-  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/btcdataguy-umbrel-store/node-miner/gallery/1.jpg
-  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/btcdataguy-umbrel-store/node-miner/gallery/2.jpg
-  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/btcdataguy-umbrel-store/node-miner/gallery/3.jpg
+  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/gallery/1.jpg
+  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/gallery/2.jpg
+  - https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/gallery/3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""

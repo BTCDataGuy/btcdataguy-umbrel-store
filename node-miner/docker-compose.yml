@@ -1,7 +1,7 @@
 services:
   web:
     image: btcdataguy/node-miner:latest
-    container_name: btcdataguy-apps-node-miner_web_1
+    container_name: node-miner_web_1
     restart: on-failure
     stop_grace_period: 10s
     ports:

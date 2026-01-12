@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: "node-miner"
+id: node-miner
 category: bitcoin
 name: Node Miner
 version: "1.0.2"

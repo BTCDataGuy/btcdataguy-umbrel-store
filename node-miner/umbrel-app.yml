@@ -50,7 +50,7 @@ developer: BTCDataGuy
 website: https://github.com/BTCDataGuy/btcdataguy-umbrel-store
 dependencies: []
 repo: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/tree/main/node-miner
-support: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/tree/main/node-miner/issues
+support: https://github.com/BTCDataGuy/btcdataguy-umbrel-store/node-miner/issues
 port: 5000
 icon: https://raw.githubusercontent.com/BTCDataGuy/btcdataguy-umbrel-store/main/node-miner/icon.png
 gallery:

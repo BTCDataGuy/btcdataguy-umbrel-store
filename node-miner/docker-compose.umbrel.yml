@@ -3,8 +3,8 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: $APP_BTCDATAGUY_APPS_NODE_MINER_WEB_IP
-      APP_PORT: $APP_BTCDATAGUY_APPS_NODE_MINER_WEB_PORT
+      APP_HOST: $APP_NODE_MINER_WEB_IP
+      APP_PORT: $APP_NODE_MINER_WEB_PORT
     container_name: btcdataguy-apps-node-miner_app_proxy_1
   
   web:
@@ -18,4 +18,4 @@ services:
       TZ: "Etc/UTC"
     networks:
       default:
-        ipv4_address: $APP_BTCDATAGUY_APPS_NODE_MINER_WEB_IP
+        ipv4_address: $APP_NODE_MINER_WEB_IP
